@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Djsrole on DJ Lorenzo</title>
-    <link>http://example.org/categories/djsrole/index.xml</link>
+    <link>/djlorenzo.github.io/categories/djsrole/index.xml</link>
     <description>Recent content in Djsrole on DJ Lorenzo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://example.org/categories/djsrole/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/djlorenzo.github.io/categories/djsrole/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Other activities 2016</title>
-      <link>http://example.org/2016/12/12/other-activities-2016/</link>
+      <link>/djlorenzo.github.io/2016/12/12/other-activities-2016/</link>
       <pubDate>Mon, 12 Dec 2016 21:43:41 +0000</pubDate>
       
-      <guid>http://example.org/2016/12/12/other-activities-2016/</guid>
+      <guid>/djlorenzo.github.io/2016/12/12/other-activities-2016/</guid>
       <description>&lt;p&gt;While I was too busy to keep this page up to date, I was also djing 2016-11-18, 2016-09-23 and 2016-08-26.&lt;/p&gt;
 
 &lt;p&gt;I also did a DJ seminar for future local tango DJs in three installations, the first in August, the second in September and the final one in November.&lt;/p&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>DJ Seminar</title>
-      <link>http://example.org/2014/03/01/dj-seminar/</link>
+      <link>/djlorenzo.github.io/2014/03/01/dj-seminar/</link>
       <pubDate>Sat, 01 Mar 2014 12:29:07 +0000</pubDate>
       
-      <guid>http://example.org/2014/03/01/dj-seminar/</guid>
+      <guid>/djlorenzo.github.io/2014/03/01/dj-seminar/</guid>
       <description>&lt;p&gt;DJ Seminar for anyone who wants to become a tango DJ or wants some input to improve as a tango DJ.&lt;/p&gt;
 
 &lt;p&gt;Bridgehuset @ 15:00 2014-03-01&lt;/p&gt;
