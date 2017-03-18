@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stats on DJ Lorenzo</title>
-    <link>/djlorenzo.github.io/categories/stats/index.xml</link>
+    <link>http://djlorenzo.github.io/categories/stats/index.xml</link>
     <description>Recent content in Stats on DJ Lorenzo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/djlorenzo.github.io/categories/stats/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://djlorenzo.github.io/categories/stats/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2016 Statistics</title>
-      <link>/djlorenzo.github.io/2016/12/30/2016-statistics/</link>
+      <link>http://djlorenzo.github.io/2016/12/30/2016-statistics/</link>
       <pubDate>Fri, 30 Dec 2016 22:46:39 +0000</pubDate>
       
-      <guid>/djlorenzo.github.io/2016/12/30/2016-statistics/</guid>
+      <guid>http://djlorenzo.github.io/2016/12/30/2016-statistics/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been using last.fm to collect &lt;a href=&#34;http://www.last.fm/user/djlorenzo/listening-report/year&#34;&gt;statistics&lt;/a&gt; for several years. The data quality isn&amp;rsquo;t quite there though, some singers are interpreted as the main artist, which messes up the orchestra totals for instance. So while cleaning up some old playlists, I decided to roll my own stats. According to my accounts, these are the orchestras I played this year (track listing will have to wait for now):&lt;/p&gt;
 
 
