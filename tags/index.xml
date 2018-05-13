@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DJ Lorenzo</title>
+    <link>https://djlorenzo.github.io/tags/</link>
+    <description>Recent content in Tags on DJ Lorenzo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Apr 2014 13:21:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://djlorenzo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chacarera</title>
+      <link>https://djlorenzo.github.io/tags/chacarera/</link>
+      <pubDate>Sat, 19 Apr 2014 13:21:56 +0000</pubDate>
+      
+      <guid>https://djlorenzo.github.io/tags/chacarera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folklore</title>
+      <link>https://djlorenzo.github.io/tags/folklore/</link>
+      <pubDate>Sat, 19 Apr 2014 13:21:56 +0000</pubDate>
+      
+      <guid>https://djlorenzo.github.io/tags/folklore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gigs</title>
+      <link>https://djlorenzo.github.io/tags/gigs/</link>
+      <pubDate>Sun, 13 May 2018 22:35:09 +0200</pubDate>
+      
+      <guid>https://djlorenzo.github.io/tags/gigs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar</title>
+      <link>https://djlorenzo.github.io/tags/seminar/</link>
+      <pubDate>Sat, 01 Mar 2014 12:29:07 +0000</pubDate>
+      
+      <guid>https://djlorenzo.github.io/tags/seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotify</title>
+      <link>https://djlorenzo.github.io/tags/spotify/</link>
+      <pubDate>Mon, 15 Nov 2010 16:57:00 +0000</pubDate>
+      
+      <guid>https://djlorenzo.github.io/tags/spotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://djlorenzo.github.io/tags/statistics/</link>
+      <pubDate>Fri, 02 Jul 2010 08:31:00 +0000</pubDate>
+      
+      <guid>https://djlorenzo.github.io/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tango_music</title>
+      <link>https://djlorenzo.github.io/tags/tango_music/</link>
+      <pubDate>Sun, 13 May 2018 22:35:09 +0200</pubDate>
+      
+      <guid>https://djlorenzo.github.io/tags/tango_music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tangomusic</title>
+      <link>https://djlorenzo.github.io/tags/tangomusic/</link>
+      <pubDate>Sat, 01 Mar 2014 12:29:07 +0000</pubDate>
+      
+      <guid>https://djlorenzo.github.io/tags/tangomusic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Folklore on DJ Lorenzo</title>
-    <link>https://djlorenzo.github.io/tags/folklore/index.xml</link>
+    <link>https://djlorenzo.github.io/tags/folklore/</link>
     <description>Recent content in Folklore on DJ Lorenzo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://djlorenzo.github.io/tags/folklore/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Apr 2014 13:21:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://djlorenzo.github.io/tags/folklore/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Chacarera</title>
@@ -14,28 +17,11 @@
       <pubDate>Sat, 19 Apr 2014 13:21:56 +0000</pubDate>
       
       <guid>https://djlorenzo.github.io/2014/04/19/chacarera/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/FBcsA3MB3TA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Need to brush up your Chacarera?&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://play.spotify.com/user/larshellemo/playlist/2E93HerKvw5CTmjl3FEDUH&#34;&gt;Chacarera playlist @ Spotify&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Zapateo:&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/GJkZ1C9PWmc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Chacarera cheat sheet:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.tango-dj.at/download/files/chacarera.pdf&#34;&gt;http://www.tango-dj.at/download/files/chacarera.pdf&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Need to brush up your Chacarera?
+Chacarera playlist @ Spotify
+Zapateo:
+   Chacarera cheat sheet:
+http://www.tango-dj.at/download/files/chacarera.pdf</description>
     </item>
     
   </channel>

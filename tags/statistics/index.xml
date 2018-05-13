@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on DJ Lorenzo</title>
-    <link>https://djlorenzo.github.io/tags/statistics/index.xml</link>
+    <link>https://djlorenzo.github.io/tags/statistics/</link>
     <description>Recent content in Statistics on DJ Lorenzo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://djlorenzo.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2010 08:31:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://djlorenzo.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>What I played</title>
@@ -14,10 +17,7 @@
       <pubDate>Fri, 02 Jul 2010 08:31:00 +0000</pubDate>
       
       <guid>https://djlorenzo.github.io/2010/07/02/what-i-played/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.last.fm/user/djlorenzo/?chartstyle=lastfmplain&#34;&gt;&lt;img src=&#34;http://imagegen.last.fm/lastfmplain/otracks/djlorenzo.gif&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m considering publishing playlists in a suitable format. By now, you can get an overview of what I played before on my &lt;a href=&#34;http://www.last.fm/user/djlorenzo/&#34;&gt;last.fm page&lt;/a&gt;. Top ten on the list above.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m considering publishing playlists in a suitable format. By now, you can get an overview of what I played before on my last.fm page. Top ten on the list above.</description>
     </item>
     
   </channel>

@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seminar on DJ Lorenzo</title>
-    <link>https://djlorenzo.github.io/tags/seminar/index.xml</link>
+    <link>https://djlorenzo.github.io/tags/seminar/</link>
     <description>Recent content in Seminar on DJ Lorenzo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://djlorenzo.github.io/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Mar 2014 12:29:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://djlorenzo.github.io/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>DJ Seminar</title>
@@ -14,36 +17,16 @@
       <pubDate>Sat, 01 Mar 2014 12:29:07 +0000</pubDate>
       
       <guid>https://djlorenzo.github.io/2014/03/01/dj-seminar/</guid>
-      <description>&lt;p&gt;DJ Seminar for anyone who wants to become a tango DJ or wants some input to improve as a tango DJ.&lt;/p&gt;
-
-&lt;p&gt;Bridgehuset @ 15:00 2014-03-01&lt;/p&gt;
-
-&lt;p&gt;Recommended listening:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tejastango.com/classic_tangos.html&#34;&gt;Classics of Argentine Tango&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tangodjlorenzo.wordpress.com/2010/11/15/classics-of-tango-dance-music-on-spotify/&#34;&gt;Classics of Argentine Tango @ Spotify&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Recommended reading:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tejastango.com/milongas_djsrole.html&#34;&gt;Playing Music for the Milonga: The DJs role&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://groups.yahoo.com/neo/groups/TangoDJ/info&#34;&gt;TangoDJ discussion group&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Other things mentioned during the seminar:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Database useful for &lt;a href=&#34;https://tango.info/tracktagger/1.4.1&#34;&gt;tagging music&lt;/a&gt; collection: &lt;a href=&#34;https://tango.info/&#34;&gt;tango.info&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Volume normalization: &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Replaygain&#34;&gt;ReplayGain&lt;/a&gt; and &lt;a href=&#34;http://simbatango.com/2011/01/18/improved-loudness-correction-with-ebu-r128/&#34;&gt;EBU R128&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Music Player Software: &lt;a href=&#34;http://simbatango.com/tangodj/foobar2000-for-the-tangodj/&#34;&gt;Foobar2000 for the TangoDJ&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>DJ Seminar for anyone who wants to become a tango DJ or wants some input to improve as a tango DJ.
+Bridgehuset @ 15:00 2014-03-01
+Recommended listening:
+ Classics of Argentine Tango
+ Classics of Argentine Tango @ Spotify
+  Recommended reading:
+ Playing Music for the Milonga: The DJs role
+ TangoDJ discussion group
+  Other things mentioned during the seminar:
+ Database useful for tagging music collection: tango.</description>
     </item>
     
   </channel>

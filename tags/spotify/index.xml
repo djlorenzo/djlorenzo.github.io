@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spotify on DJ Lorenzo</title>
-    <link>https://djlorenzo.github.io/tags/spotify/index.xml</link>
+    <link>https://djlorenzo.github.io/tags/spotify/</link>
     <description>Recent content in Spotify on DJ Lorenzo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://djlorenzo.github.io/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Nov 2010 16:57:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://djlorenzo.github.io/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Classics of Tango Dance Music on Spotify</title>
@@ -14,27 +17,7 @@
       <pubDate>Mon, 15 Nov 2010 16:57:00 +0000</pubDate>
       
       <guid>https://djlorenzo.github.io/2010/11/15/classics-of-tango-dance-music-on-spotify/</guid>
-      <description>&lt;p&gt;To help beginners and other interested in getting acquainted with the classics of tango music, I started putting together Spotify playlists from Stephen Brown&amp;rsquo;s excellent list &lt;a href=&#34;http://www.tejastango.com/classic_tangos.html&#34;&gt;Classics of Tango Dance Music&lt;/a&gt;. This is a work in progress, and it is not all in there. These playlists are all collaborative playlists, and any help is very much appreciated. I got a few Spotify invites to spare, let me know if you need one.&lt;/p&gt;
-
-&lt;p&gt;At the time of writing, the playlists for Milonga, Vals and Early Golden Age are mostly done.&lt;/p&gt;
-
-&lt;p&gt;EDIT: Thanks to swingsmurfen for adding a lot of tracks to the Old Guard list.&lt;br /&gt;
-EDIT: Added Golden Age Smooth&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/70wm6q0Qhb8oeZqTO7DIuV&#34;&gt;Tango Classics: Old Guard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/2Cg5mTiXmzyohlhfeGozV5&#34;&gt;Tango Classics: Early Golden Age&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/6xwSGdNosWcW4Qv0zikRyt&#34;&gt;Tango Classics: Golden Age Harder Rhythmic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/5IcinBlF6C34bFlqO2JwFN&#34;&gt;Tango Classics: Golden Age Softer Rhythmic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/0vcuH0f8EPsKlRFy9LmdEs&#34;&gt;Tango Classics: Golden Age Smooth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/5fvxhr2Q0azCJ92y7WmQIb&#34;&gt;Tango Classics: Golden Age Lyrical&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/6BYIMUp7IHy943djctoBkj&#34;&gt;Tango Classics: Golden Age Dramatic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/7ksIPEIN3My0Az6Xn2KDwv&#34;&gt;Tango Classics: Transition Era&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/3JEfPhSnuzLJMRfV40LsbS&#34;&gt;Tango Classics: Modern Dance Orchestras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/5Crc8oOyEFqxB8I1atXYZy&#34;&gt;Tango Classics: Valses&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://open.spotify.com/user/larshellemo/playlist/1v6UUDfhtLPfcxi50a6CBC&#34;&gt;Tango Classics: Milongas&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>To help beginners and other interested in getting acquainted with the classics of tango music, I started putting together Spotify playlists from Stephen Brown&amp;rsquo;s excellent list Classics of Tango Dance Music. This is a work in progress, and it is not all in there. These playlists are all collaborative playlists, and any help is very much appreciated. I got a few Spotify invites to spare, let me know if you need one.</description>
     </item>
     
   </channel>
